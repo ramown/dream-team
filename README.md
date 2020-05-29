@@ -21,6 +21,7 @@
 	[x] register Blueprint
 [x] Home Blueprint
 	[x] templates (home: index e dashboard)
-[] Auth Blueprint
-	[] Flask-WTF (pip install)
+[x] Auth Blueprint
+	[x] Flask-WTF (pip install)
+	[x] email_validator (pip install)
 [] ConclusionECHO est  ativado.
