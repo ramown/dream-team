@@ -24,7 +24,6 @@
 [x] Auth Blueprint
 	[x] Flask-WTF (pip install)
 	[x] email_validator (pip install)
-[x] ConclusionECHO est  ativado.
 
 # Part Two
 [x] Admin User 
@@ -37,7 +36,12 @@
 	[x] forms
 	[x] views
 	[x] templates
-[] Employees
-[] Views
-[] Templates
-[] Conclusion
+[x] Employees
+	[x] forms
+	[x] views
+	[x] templates
+
+# Part Three
+[] Tests
+Deploy!
+Conclusion
