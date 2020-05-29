@@ -19,6 +19,8 @@
 [x] Blueprints
 	[x] create Blueprint
 	[x] register Blueprint
-[] Home Blueprint
+[x] Home Blueprint
+	[x] templates (home: index e dashboard)
 [] Auth Blueprint
+	[] Flask-WTF (pip install)
 [] ConclusionECHO est  ativado.
