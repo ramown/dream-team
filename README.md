@@ -10,10 +10,12 @@
 	[x] setup in config.py
 	[x] __init__.py
 	[x] run.py
-[] Models
+[x] Models
 	[x] flask_login (pip install)
 	[x] create models
-[] Migration
+[x] Migration
+	[x] flask_migrate (pip install)
+	[x] commands (flask db init; flask db migrate; flask db upgrade)
 [] Blueprints
 [] Home Blueprint
 [] Auth Blueprint
