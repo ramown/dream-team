@@ -30,6 +30,8 @@
 [x] Admin User 
 [x] Admin Dashboard
 [] Departments
+	[x] forms
+	[] templates
 [] Roles
 [] Employees
 [] Views
