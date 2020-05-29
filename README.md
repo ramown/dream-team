@@ -42,4 +42,4 @@
 	[x] templates
 
 # Part Three
-[x] Tests
+[x] Tests (pip install Flask-Testing)
