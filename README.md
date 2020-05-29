@@ -29,10 +29,14 @@
 # Part Two
 [x] Admin User 
 [x] Admin Dashboard
-[] Departments
+[x] Departments
 	[x] forms
-	[] templates
-[] Roles
+	[x] views
+	[x] templates
+[x] Roles
+	[x] forms
+	[x] views
+	[x] templates
 [] Employees
 [] Views
 [] Templates
