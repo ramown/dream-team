@@ -11,6 +11,8 @@
 	[x] __init__.py
 	[x] run.py
 [] Models
+	[x] flask_login (pip install)
+	[x] create models
 [] Migration
 [] Blueprints
 [] Home Blueprint
