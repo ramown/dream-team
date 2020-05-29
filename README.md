@@ -16,7 +16,9 @@
 [x] Migration
 	[x] flask_migrate (pip install)
 	[x] commands (flask db init; flask db migrate; flask db upgrade)
-[] Blueprints
+[x] Blueprints
+	[x] create Blueprint
+	[x] register Blueprint
 [] Home Blueprint
 [] Auth Blueprint
 [] ConclusionECHO est  ativado.
