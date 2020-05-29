@@ -42,6 +42,4 @@
 	[x] templates
 
 # Part Three
-[] Tests
-Deploy!
-Conclusion
+[x] Tests
